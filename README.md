@@ -1,5 +1,4 @@
 # Final-Project-Semester-One
-Read the Title
 The Purpose of the website I made is to replace the current website files that my high school robotics club uses. Their site was non-responisve, and I wanted to give it a new look.
 The index page serves as a introduction to our team, as well as a launch pad to more information.
 The About page is about the challenge presented to our team this year.
